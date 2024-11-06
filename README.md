@@ -7,9 +7,9 @@
 <p>A Cloud Infrastructure project in Microsoft Azure developed by the following group (with LinkedIn Profiles!):
         <br>
         <ul>
-        <li><a href="https://www.linkedin.com/in/nikos-chaitas-816757321/">Nick Chaitas</a></li>
+        <li><a href="https://www.linkedin.com/in/nikos-chaitas-816757321/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Nick Chaitas</a></li>
         <li><a href="https://www.linkedin.com/in/angelos-sismanis-a631262a6/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Angelos Sismanis </a></li>
-        <li><a href="https://www.linkedin.com/in/epameinondas-tsaramparis-774989248/">Epameinondas Tsaramparis</a></li>
+        <li><a href="https://www.linkedin.com/in/epameinondas-tsaramparis-774989248/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Epameinondas Tsaramparis</a></li>
         <li>George Karampimperis</li>
         <li>Chris Apostolidis</li>
         </ul>
