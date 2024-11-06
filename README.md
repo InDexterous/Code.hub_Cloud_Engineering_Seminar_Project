@@ -26,4 +26,4 @@ The repository contains the following:
         </ul>
 </p>
 
-<p>A huge thanks to <a href="https://codehub.gr"><img src="https://codehub.gr/wp-content/uploads/2020/11/CodeHub-logo_Full-e1515417616834-1.png>CodeHub"><Code.Hub/a>, Pfizer and DUTh and their respective personnel for making this possible!</p>
+<p>A huge thanks to<a href="https://codehub.gr"><img src="https://codehub.gr/wp-content/uploads/2020/11/CodeHub-logo_Full-e1515417616834-1.png">CodeHub></a>, Pfizer and DUTh and their respective personnel for making this possible!</p>
