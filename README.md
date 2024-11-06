@@ -5,7 +5,7 @@
 <p>This is a Cloud Infrastructure project made for a multisoftware company that tranfsers on-premises servers to a cloud service using Microsoft <a href="https://azure.microsoft.com/en-us">Azure</a>
         <br>
         <br>
-        <ul> <p>h1{Contributors : font-size:40px;}
+        <ul> h1 {Contributors : font-size:40px;}
         <li><a href="https://www.linkedin.com/in/nikos-chaitas-816757321/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Nick Chaitas</a></li>
         <li><a href="https://www.linkedin.com/in/angelos-sismanis-a631262a6/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Angelos Sismanis </a></li>
         <li><a href="https://www.linkedin.com/in/epameinondas-tsaramparis-774989248/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Epameinondas Tsaramparis</a></li>
