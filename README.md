@@ -2,10 +2,10 @@
 
 
 
-<p>This is a Cloud Infrastructure project made for a multisoftware company that tranfsers on-premises servers to a cloud service using <br><a href="https://azure.microsoft.com/en-us">Microsoft Azure</a>
+<p>This is a Cloud Infrastructure project made for a multisoftware company that tranfsers on-premises servers to a cloud service using <br><a href="https://azure.microsoft.com/en-us">Microsoft Azure.</a>
         <br>
         <br>
-        <p style="font-size:60px;">Contributors :</p>
+        <p>Contributors :</p>
         <ul> 
         <li><a href="https://www.linkedin.com/in/nikos-chaitas-816757321/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Nick Chaitas</a></li>
         <li><a href="https://www.linkedin.com/in/angelos-sismanis-a631262a6/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Angelos Sismanis </a></li>
