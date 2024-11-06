@@ -2,7 +2,7 @@
 
 
 
-<p>A Cloud Infrastructure project using Microsoft <a href="https://azure.microsoft.com/en-us">Azure</a> developed by the following group of undergraduate students :
+<p>This is a Cloud Infrastructure project made for a multisoftware company that tranfsers on-premises servers to a cloud service using Microsoft <a href="https://azure.microsoft.com/en-us">Azure</a>
         <br>
         <ul>
         <li><a href="https://www.linkedin.com/in/nikos-chaitas-816757321/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"> Nick Chaitas</a></li>
