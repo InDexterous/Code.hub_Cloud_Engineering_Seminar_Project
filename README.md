@@ -26,4 +26,4 @@ The repository contains the following:
         </ul>
 </p>
 
-<p>A huge thanks to<a href="https://codehub.gr"><img src="https://codehub.gr/wp-content/uploads/2020/11/CodeHub-logo_Full-e1515417616834-1.png" style="width:100px; vertical-align:middle;"></a>,<a href="https://www.pfizer.com"><img src="https://helix-core-components.digitalpfizer.com/static/logo/pfizer-logo-color.svg"></a> Pfizer and DUTh and their respective personnel for making this possible!</p>
+<p>A huge thanks to<a href="https://codehub.gr"><img src="https://codehub.gr/wp-content/uploads/2020/11/CodeHub-logo_Full-e1515417616834-1.png" style="width:100px; vertical-align:middle;"></a>,<a href="https://www.pfizer.com"><img src="https://helix-core-components.digitalpfizer.com/static/logo/pfizer-logo-color.svg" style="width:100px; vertical-align:middle;"></a> Pfizer and DUTh and their respective personnel for making this possible!</p>
