@@ -8,7 +8,7 @@
         <br>
         <ul>
         <li><a href="https://www.linkedin.com/in/nikos-chaitas-816757321/">Nick Chaitas</a></li>
-        <li><a href="https://www.linkedin.com/in/angelos-sismanis-a631262a6/">Angelos Sismanis <img src"https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width"20px;" style="max-width: 100%;"></a></li>
+        <li><a href="https://www.linkedin.com/in/angelos-sismanis-a631262a6/">Angelos Sismanis <img src="path/to/linkedin-icon.png" alt="LinkedIn" style="width:20px; height:20px; vertical-align:middle;"></a></li>
         <li><a href="https://www.linkedin.com/in/epameinondas-tsaramparis-774989248/">Epameinondas Tsaramparis</a></li>
         <li>George Karampimperis</li>
         <li>Chris Apostolidis</li>
